@@ -1,0 +1,8 @@
+<suite name="Suite">
+    <test name="Suite">
+        <classes>
+            <class name="in.at.testannotation.VbetTest">
+            </class>
+        </classes>
+    </test>
+</suite>
